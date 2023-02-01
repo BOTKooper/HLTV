@@ -628,22 +628,6 @@ Object {
   ],
   "historicPlayers": Array [
     Object {
-      "id": 21345,
-      "name": "hybrid",
-    },
-    Object {
-      "id": 8917,
-      "name": "niki1",
-    },
-    Object {
-      "id": 14380,
-      "name": "Patrick",
-    },
-    Object {
-      "id": 20114,
-      "name": "shaiK",
-    },
-    Object {
       "id": 10697,
       "name": "blocker",
     },
@@ -656,32 +640,8 @@ Object {
       "name": "Duplicate",
     },
     Object {
-      "id": 15385,
-      "name": "KalubeR",
-    },
-    Object {
-      "id": 13464,
-      "name": "mar",
-    },
-    Object {
-      "id": 20388,
-      "name": "milky",
-    },
-    Object {
       "id": 17146,
       "name": "numb",
-    },
-    Object {
-      "id": 16412,
-      "name": "rafftu",
-    },
-    Object {
-      "id": 17145,
-      "name": "Rainwaker",
-    },
-    Object {
-      "id": 10762,
-      "name": "Rock1nG",
     },
     Object {
       "id": 13992,
@@ -690,6 +650,46 @@ Object {
     Object {
       "id": 20097,
       "name": "h4rn",
+    },
+    Object {
+      "id": 15385,
+      "name": "KalubeR",
+    },
+    Object {
+      "id": 17145,
+      "name": "Rainwaker",
+    },
+    Object {
+      "id": 8917,
+      "name": "niki1",
+    },
+    Object {
+      "id": 14380,
+      "name": "Patrick",
+    },
+    Object {
+      "id": 10762,
+      "name": "Rock1nG",
+    },
+    Object {
+      "id": 16412,
+      "name": "rafftu",
+    },
+    Object {
+      "id": 13464,
+      "name": "mar",
+    },
+    Object {
+      "id": 20114,
+      "name": "shaiK",
+    },
+    Object {
+      "id": 20388,
+      "name": "milky",
+    },
+    Object {
+      "id": 21345,
+      "name": "hybrid",
     },
   ],
   "id": 9863,

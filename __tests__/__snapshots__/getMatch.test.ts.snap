@@ -194,7 +194,20 @@ Object {
   "maps": Array [
     Object {
       "name": "de_dust2",
-      "result": undefined,
+      "result": Object {
+        "halfResults": Array [
+          Object {
+            "team1Rounds": 15,
+            "team2Rounds": 0,
+          },
+          Object {
+            "team1Rounds": 1,
+            "team2Rounds": 0,
+          },
+        ],
+        "team1TotalRounds": 16,
+        "team2TotalRounds": 0,
+      },
       "statsId": 73147,
     },
     Object {
@@ -234,7 +247,6 @@ Object {
       "statsId": 73165,
     },
   ],
-  "odds": Array [],
   "playerOfTheMatch": Object {
     "id": 11816,
     "name": "ropz",
@@ -288,7 +300,68 @@ Object {
   "significance": "Semi-final",
   "statsId": 59400,
   "status": "Over",
-  "streams": Array [],
+  "streams": Array [
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+  ],
   "team1": Object {
     "id": 4494,
     "name": "MOUZ",
@@ -380,7 +453,6 @@ Object {
       "statsId": undefined,
     },
   ],
-  "odds": Array [],
   "playerOfTheMatch": undefined,
   "players": Object {
     "team1": Array [
@@ -470,7 +542,6 @@ Object {
       "statsId": undefined,
     },
   ],
-  "odds": Array [],
   "playerOfTheMatch": Object {
     "id": 7226,
     "name": "fl0w",
@@ -606,7 +677,6 @@ Object {
       "statsId": undefined,
     },
   ],
-  "odds": Array [],
   "playerOfTheMatch": undefined,
   "players": Object {
     "team1": Array [
@@ -646,7 +716,7 @@ Object {
       },
       Object {
         "id": 7794,
-        "name": "Egor K.",
+        "name": "Egor K",
       },
       Object {
         "id": 7406,
@@ -754,7 +824,6 @@ Object {
   "highlights": Array [],
   "id": 2315069,
   "maps": Array [],
-  "odds": Array [],
   "playerOfTheMatch": undefined,
   "players": Object {
     "team1": Array [
@@ -910,7 +979,6 @@ Object {
       "statsId": 116211,
     },
   ],
-  "odds": Array [],
   "playerOfTheMatch": Object {
     "id": 15385,
     "name": "KalubeR",
@@ -964,7 +1032,38 @@ Object {
   "significance": "Group A",
   "statsId": 79738,
   "status": "Over",
-  "streams": Array [],
+  "streams": Array [
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+    Object {
+      "link": undefined,
+      "name": "",
+      "viewers": undefined,
+    },
+  ],
   "team1": Object {
     "id": 9863,
     "name": "FATE",

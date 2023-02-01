@@ -23,7 +23,21 @@ Object {
         "name": "Copenhagen Flames",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106330568-preview.jpg",
-      "views": 381,
+      "views": 393,
+    },
+    Object {
+      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106334846.mp4",
+      "name": "M3 | shellzi - 1vs2 clutch (CT - pre-plant situation) to secure the match victory for OFFSET",
+      "team1": Object {
+        "id": 8515,
+        "name": "OFFSET",
+      },
+      "team2": Object {
+        "id": 7461,
+        "name": "Copenhagen Flames",
+      },
+      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106334846-preview.jpg",
+      "views": 57,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106318896.mp4",
@@ -38,20 +52,6 @@ Object {
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106318896-preview.jpg",
       "views": 56,
-    },
-    Object {
-      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106334846.mp4",
-      "name": "M3 | shellzi - 1vs2 clutch (CT - pre-plant situation) to secure the match victory for OFFSET",
-      "team1": Object {
-        "id": 8515,
-        "name": "OFFSET",
-      },
-      "team2": Object {
-        "id": 7461,
-        "name": "Copenhagen Flames",
-      },
-      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106334846-preview.jpg",
-      "views": 55,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106327119.mp4",
@@ -110,6 +110,20 @@ Object {
       "views": 38,
     },
     Object {
+      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106972135.mp4",
+      "name": "M1 | hades - 1vs3 clutch (T - pre-plant situation)",
+      "team1": Object {
+        "id": 10426,
+        "name": "Wisla Krakow",
+      },
+      "team2": Object {
+        "id": 10697,
+        "name": "BLINK",
+      },
+      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106972135-preview.jpg",
+      "views": 36,
+    },
+    Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106324122.mp4",
       "name": "M3 | shellzi - 1vs2 clutch (T - post-plant situation) in the following round",
       "team1": Object {
@@ -122,20 +136,6 @@ Object {
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106324122-preview.jpg",
       "views": 35,
-    },
-    Object {
-      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106972135.mp4",
-      "name": "M1 | hades - 1vs3 clutch (T - pre-plant situation)",
-      "team1": Object {
-        "id": 10426,
-        "name": "Wisla Krakow",
-      },
-      "team2": Object {
-        "id": 10697,
-        "name": "BLINK",
-      },
-      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106972135-preview.jpg",
-      "views": 34,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1106321539.mp4",
@@ -317,7 +317,7 @@ Object {
         "name": "Nexus",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1105505492-preview.jpg",
-      "views": 54,
+      "views": 56,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1105489583.mp4",
@@ -331,7 +331,7 @@ Object {
         "name": "Nexus",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1105489583-preview.jpg",
-      "views": 49,
+      "views": 53,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1105482525.mp4",
@@ -345,7 +345,7 @@ Object {
         "name": "Nexus",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1105482525-preview.jpg",
-      "views": 48,
+      "views": 50,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1105494048.mp4",
@@ -359,7 +359,7 @@ Object {
         "name": "Nexus",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1105494048-preview.jpg",
-      "views": 46,
+      "views": 48,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1105476554.mp4",
@@ -387,7 +387,7 @@ Object {
         "name": "Nexus",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1105465184-preview.jpg",
-      "views": 32,
+      "views": 36,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1105485834.mp4",
@@ -457,7 +457,7 @@ Object {
         "name": "UMX",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1104402365-preview.jpg",
-      "views": 22,
+      "views": 34,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1104386645.mp4",
@@ -472,6 +472,20 @@ Object {
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1104386645-preview.jpg",
       "views": 22,
+    },
+    Object {
+      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1104399864.mp4",
+      "name": "M1 | arTisT - 1vs2 clutch (T - post-plant situation)",
+      "team1": Object {
+        "id": 7461,
+        "name": "Copenhagen Flames",
+      },
+      "team2": Object {
+        "id": 10879,
+        "name": "UMX",
+      },
+      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1104399864-preview.jpg",
+      "views": 17,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1104396313.mp4",
@@ -544,20 +558,6 @@ Object {
       "views": 14,
     },
     Object {
-      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1104399864.mp4",
-      "name": "M1 | arTisT - 1vs2 clutch (T - post-plant situation)",
-      "team1": Object {
-        "id": 7461,
-        "name": "Copenhagen Flames",
-      },
-      "team2": Object {
-        "id": 10879,
-        "name": "UMX",
-      },
-      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1104399864-preview.jpg",
-      "views": 13,
-    },
-    Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1104381822.mp4",
       "name": "M2 | Maka - 1vs2 AWP clutch (CT - bomb planted after 1 clutch kill)",
       "team1": Object {
@@ -611,7 +611,7 @@ Object {
         "name": "K23",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1102806712-preview.jpg",
-      "views": 193,
+      "views": 195,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1102809946.mp4",
@@ -681,7 +681,7 @@ Object {
         "name": "Galaxy Racer",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1102787853-preview.jpg",
-      "views": 45,
+      "views": 47,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1102785716.mp4",
@@ -740,6 +740,20 @@ Object {
       "views": 31,
     },
     Object {
+      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1098636540.mp4",
+      "name": "M1 | NaToSaphiX - 3 quick AWP kills on the bombsite B defense (2vs3 situation)",
+      "team1": Object {
+        "id": 7461,
+        "name": "Copenhagen Flames",
+      },
+      "team2": Object {
+        "id": 8963,
+        "name": "Lyngby Vikings",
+      },
+      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1098636540-preview.jpg",
+      "views": 29,
+    },
+    Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1098591040.mp4",
       "name": "M2 | Markos - 4 AWP kills on the bombsite A defense",
       "team1": Object {
@@ -780,20 +794,6 @@ Object {
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1098642815-preview.jpg",
       "views": 17,
-    },
-    Object {
-      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1098636540.mp4",
-      "name": "M1 | NaToSaphiX - 3 quick AWP kills on the bombsite B defense (2vs3 situation)",
-      "team1": Object {
-        "id": 7461,
-        "name": "Copenhagen Flames",
-      },
-      "team2": Object {
-        "id": 8963,
-        "name": "Lyngby Vikings",
-      },
-      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1098636540-preview.jpg",
-      "views": 15,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1098630517.mp4",
@@ -905,7 +905,7 @@ Object {
         "name": "Tricked",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1097017124-preview.jpg",
-      "views": 54,
+      "views": 62,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1097019643.mp4",
@@ -919,7 +919,7 @@ Object {
         "name": "Tricked",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1097019643-preview.jpg",
-      "views": 37,
+      "views": 47,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1097053197.mp4",
@@ -933,21 +933,7 @@ Object {
         "name": "Copenhagen Flames",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1097053197-preview.jpg",
-      "views": 22,
-    },
-    Object {
-      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1097033619.mp4",
-      "name": "M1 | Lucky - 1vs2 AWP clutch (T - post-plant situation)",
-      "team1": Object {
-        "id": 7461,
-        "name": "Copenhagen Flames",
-      },
-      "team2": Object {
-        "id": 4602,
-        "name": "Tricked",
-      },
-      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1097033619-preview.jpg",
-      "views": 20,
+      "views": 24,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1097056636.mp4",
@@ -961,6 +947,20 @@ Object {
         "name": "Copenhagen Flames",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1097056636-preview.jpg",
+      "views": 21,
+    },
+    Object {
+      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C1097033619.mp4",
+      "name": "M1 | Lucky - 1vs2 AWP clutch (T - post-plant situation)",
+      "team1": Object {
+        "id": 7461,
+        "name": "Copenhagen Flames",
+      },
+      "team2": Object {
+        "id": 4602,
+        "name": "Tricked",
+      },
+      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C1097033619-preview.jpg",
       "views": 20,
     },
     Object {
@@ -1075,11 +1075,8 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "1-2nd",
-      "prize": "$3,000",
-      "qualifiesFor": Object {
-        "id": 5786,
-        "name": "Snow Sweet Snow 3",
-      },
+      "prize": undefined,
+      "qualifiesFor": undefined,
       "team": Object {
         "id": 10386,
         "name": "SKADE",
@@ -1088,11 +1085,8 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "1-2nd",
-      "prize": "$3,000",
-      "qualifiesFor": Object {
-        "id": 5786,
-        "name": "Snow Sweet Snow 3",
-      },
+      "prize": undefined,
+      "qualifiesFor": undefined,
       "team": Object {
         "id": 4602,
         "name": "Tricked",
@@ -1101,11 +1095,8 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "3-5th",
-      "prize": "$3,000",
-      "qualifiesFor": Object {
-        "id": 5786,
-        "name": "Snow Sweet Snow 3",
-      },
+      "prize": undefined,
+      "qualifiesFor": undefined,
       "team": Object {
         "id": 10977,
         "name": "Trident",
@@ -1114,11 +1105,8 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "3-5th",
-      "prize": "$3,000",
-      "qualifiesFor": Object {
-        "id": 5786,
-        "name": "Snow Sweet Snow 3",
-      },
+      "prize": undefined,
+      "qualifiesFor": undefined,
       "team": Object {
         "id": 8769,
         "name": "Nordavind",
@@ -1127,11 +1115,8 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "3-5th",
-      "prize": "$3,000",
-      "qualifiesFor": Object {
-        "id": 5786,
-        "name": "Snow Sweet Snow 3",
-      },
+      "prize": undefined,
+      "qualifiesFor": undefined,
       "team": Object {
         "id": 10426,
         "name": "Wisla Krakow",
@@ -1140,11 +1125,8 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "6-8th",
-      "prize": "$3,000",
-      "qualifiesFor": Object {
-        "id": 5786,
-        "name": "Snow Sweet Snow 3",
-      },
+      "prize": undefined,
+      "qualifiesFor": undefined,
       "team": Object {
         "id": 8515,
         "name": "OFFSET",
@@ -1153,11 +1135,8 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "6-8th",
-      "prize": "$3,000",
-      "qualifiesFor": Object {
-        "id": 5786,
-        "name": "Snow Sweet Snow 3",
-      },
+      "prize": undefined,
+      "qualifiesFor": undefined,
       "team": Object {
         "id": 10764,
         "name": "Galaxy Racer",
@@ -1166,11 +1145,8 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "6-8th",
-      "prize": "$3,000",
-      "qualifiesFor": Object {
-        "id": 5786,
-        "name": "Snow Sweet Snow 3",
-      },
+      "prize": undefined,
+      "qualifiesFor": undefined,
       "team": Object {
         "id": 10960,
         "name": "Young Ninjas",
@@ -1179,7 +1155,7 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "9-11th",
-      "prize": "$1,000",
+      "prize": undefined,
       "qualifiesFor": undefined,
       "team": Object {
         "id": 10697,
@@ -1189,7 +1165,7 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "9-11th",
-      "prize": "$1,000",
+      "prize": undefined,
       "qualifiesFor": undefined,
       "team": Object {
         "id": 7187,
@@ -1199,7 +1175,7 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "9-11th",
-      "prize": "$1,000",
+      "prize": undefined,
       "qualifiesFor": undefined,
       "team": Object {
         "id": 7244,
@@ -1209,7 +1185,7 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "12-14th",
-      "prize": "$1,000",
+      "prize": undefined,
       "qualifiesFor": undefined,
       "team": Object {
         "id": 7461,
@@ -1219,7 +1195,7 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "12-14th",
-      "prize": "$1,000",
+      "prize": undefined,
       "qualifiesFor": undefined,
       "team": Object {
         "id": 10737,
@@ -1229,7 +1205,7 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "12-14th",
-      "prize": "$1,000",
+      "prize": undefined,
       "qualifiesFor": undefined,
       "team": Object {
         "id": 4674,
@@ -1239,17 +1215,17 @@ Object {
     Object {
       "otherPrize": undefined,
       "place": "15-16th",
-      "prize": "$1,000",
+      "prize": undefined,
       "qualifiesFor": undefined,
       "team": Object {
         "id": 9466,
-        "name": "GTZ Bulls",
+        "name": "GTZ",
       },
     },
     Object {
       "otherPrize": undefined,
       "place": "15-16th",
-      "prize": "$1,000",
+      "prize": undefined,
       "qualifiesFor": undefined,
       "team": Object {
         "id": 10879,
@@ -1591,7 +1567,7 @@ Object {
     },
     Object {
       "id": 9466,
-      "name": "GTZ Bulls",
+      "name": "GTZ",
       "rankDuringEvent": 117,
       "reasonForParticipation": "Ibero-American Invite",
     },
@@ -1688,7 +1664,7 @@ Object {
         "name": "eUnited",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C396086130-preview.jpg",
-      "views": 761,
+      "views": 765,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C396116386.mp4",
@@ -1702,7 +1678,7 @@ Object {
         "name": "eUnited",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C396116386-preview.jpg",
-      "views": 601,
+      "views": 603,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C396075426.mp4",
@@ -1716,7 +1692,7 @@ Object {
         "name": "eUnited",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C396075426-preview.jpg",
-      "views": 583,
+      "views": 585,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C396076522.mp4",
@@ -1730,7 +1706,7 @@ Object {
         "name": "eUnited",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C396076522-preview.jpg",
-      "views": 211,
+      "views": 213,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C396025046.mp4",
@@ -1940,7 +1916,7 @@ Object {
         "name": "Luminosity",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C395615978-preview.jpg",
-      "views": 107,
+      "views": 109,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C395584767.mp4",
@@ -1971,6 +1947,20 @@ Object {
       "views": 92,
     },
     Object {
+      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C395592271.mp4",
+      "name": "M2 | WARDELL - 3 AWP kills on the bombsite A defense (finishing frags)",
+      "team1": Object {
+        "id": 7801,
+        "name": "Ghost",
+      },
+      "team2": Object {
+        "id": 6290,
+        "name": "Luminosity",
+      },
+      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C395592271-preview.jpg",
+      "views": 91,
+    },
+    Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C395412463.mp4",
       "name": "M2 | freakazoid - 3 AK HS kills on the bombsite B bomb plant defense (2vs3 situation)",
       "team1": Object {
@@ -1983,20 +1973,6 @@ Object {
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C395412463-preview.jpg",
       "views": 90,
-    },
-    Object {
-      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C395592271.mp4",
-      "name": "M2 | WARDELL - 3 AWP kills on the bombsite A defense (finishing frags)",
-      "team1": Object {
-        "id": 7801,
-        "name": "Ghost",
-      },
-      "team2": Object {
-        "id": 6290,
-        "name": "Luminosity",
-      },
-      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C395592271-preview.jpg",
-      "views": 89,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C395555369.mp4",
@@ -2038,7 +2014,7 @@ Object {
         "name": "Swole Patrol",
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/vod-376733038-offset-17872-preview.jpg",
-      "views": 69,
+      "views": 71,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C395620794.mp4",
@@ -2055,6 +2031,20 @@ Object {
       "views": 68,
     },
     Object {
+      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C395391126.mp4",
+      "name": "M1 | WARDELL - 4 AUG kills (3 HS) on the bombsite A defense (anti-eco)",
+      "team1": Object {
+        "id": 7801,
+        "name": "Ghost",
+      },
+      "team2": Object {
+        "id": 5991,
+        "name": "Envy",
+      },
+      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C395391126-preview.jpg",
+      "views": 56,
+    },
+    Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C395554790.mp4",
       "name": "M2 | vanity - 4 kills (2 AUG, 2 USP-S) on the Arch defense (finishing frags - clean round - vs pistols)",
       "team1": Object {
@@ -2067,20 +2057,6 @@ Object {
       },
       "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C395554790-preview.jpg",
       "views": 55,
-    },
-    Object {
-      "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C395391126.mp4",
-      "name": "M1 | WARDELL - 4 AUG kills (3 HS) on the bombsite A defense (anti-eco)",
-      "team1": Object {
-        "id": 7801,
-        "name": "Ghost",
-      },
-      "team2": Object {
-        "id": 5991,
-        "name": "Envy",
-      },
-      "thumbnail": "https://clips-media-assets2.twitch.tv/AT-cm%7C395391126-preview.jpg",
-      "views": 54,
     },
     Object {
       "link": "https://clips-media-assets2.twitch.tv/AT-cm%7C395392178.mp4",
@@ -2213,10 +2189,7 @@ Object {
       "otherPrize": undefined,
       "place": "1st",
       "prize": undefined,
-      "qualifiesFor": Object {
-        "id": 4236,
-        "name": "IEM Sydney 2019",
-      },
+      "qualifiesFor": undefined,
       "team": Object {
         "id": 7726,
         "name": "Swole Patrol",
@@ -2392,7 +2365,7 @@ Object {
   "numberOfTeams": 2,
   "prizeDistribution": Array [
     Object {
-      "otherPrize": "Pro contracts",
+      "otherPrize": undefined,
       "place": "1st",
       "prize": undefined,
       "qualifiesFor": undefined,

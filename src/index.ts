@@ -82,7 +82,6 @@ export type {
   Highlight,
   Veto,
   HeadToHeadResult,
-  ProviderOdds,
   MapHalfResult,
   MapResult,
   Stream,
